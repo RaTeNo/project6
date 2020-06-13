@@ -2287,7 +2287,7 @@ aside > *:last-child
 .first_section .info .link
 {
     color: #fff;
-
+    background-color: var(--main_color1);
     margin-top: 61px;
 }
 
@@ -2342,6 +2342,7 @@ aside > *:last-child
 }
 .first_section .img.no_mask img{
     border:none;
+    box-shadow: none;
 }
 .main_slider .owl-carousel .owl-nav button
 {
