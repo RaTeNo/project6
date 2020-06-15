@@ -778,6 +778,7 @@
         margin: 0 auto 30px;
 
         column-gap: 20px;
+        display: none;
     }
 
     .news .flex{
