@@ -40,7 +40,7 @@
 
 	</head>
 
-	<body>
+	<body class="header_fixed">
 		<div class="color_change">
 			<p><input type="text" class="color1"></p>
 			<p><input type="text" class="color2"></p>
