@@ -395,9 +395,7 @@
     }
 
 
-	.mob_header + .main_slider{
-		margin-top:-30px;
-	}
+	
     .main_slider .slide .title
     {
        font-size: 22px;
@@ -953,5 +951,9 @@
 
     .socials_block .title:after{
         display: none;
+    }
+
+    .mob_header + .main_slider, .mob_header + .first_section, .mob_header + .main_slider3 {
+        margin-top:-30px;
     }
 }
