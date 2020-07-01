@@ -334,7 +334,8 @@
 
 .main_slider2 .owl-carousel .owl-nav button
 {
-    bottom: -20px;
+    bottom: 25px;
+    background-color: var(--main_color1);
 }
 
 .main_slider2 .owl-carousel .owl-nav button.owl-prev
