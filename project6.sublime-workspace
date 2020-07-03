@@ -298,6 +298,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/katalog.php",
 		"/C/xampp/htdocs/vers6/css/response_479.css",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 3.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/orderby.php",
@@ -308,8 +311,6 @@
 		"/E/шлак 2020/вввввввввввввввввввввввввввв/lestnitsa/woocommerce/content-single-product.php",
 		"/E/шлак 2020/вввввввввввввввввввввввввввв/lestnitsa/footer.php",
 		"/E/шлак 2020/вввввввввввввввввввввввввввв/lestnitsa/woocommerce/loop/orderby.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 2.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer2.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 6.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/content-product_cat.php",
 		"/C/xampp/htdocs/vers6/css/response_1023.css",
@@ -424,8 +425,7 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/page.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/posts_block.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/related_posts.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/related_posts_option.php",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/search.php"
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-3/related_posts_option.php"
 	],
 	"find":
 	{
@@ -443,6 +443,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"station",
 			"popularity_asc",
 			"map__block",
 			"top-slider",
@@ -613,7 +614,7 @@
 		[
 			[
 				"",
-				"C:\\xampp\\htdocs\\vers8_black\\project8_black.sublime-project"
+				"C:\\xampp\\htdocs\\kudo\\wp-content\\themes\\raten\\kudo.sublime-project"
 			]
 		],
 		"width": 380.0

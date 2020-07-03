@@ -2607,7 +2607,7 @@ aside > *:last-child
 
 .main_slider3 .info .desc
 {
-    color: #d3d3d6;
+    color: #fff;
     margin-top: 40px;
     letter-spacing: .35px;
 }
@@ -2615,7 +2615,7 @@ aside > *:last-child
 .main_slider3 .info .link
 {
     margin-left: auto;
-    color: #000;
+    color: #fff;
     background-color: var(--main_color1);
 }
 
