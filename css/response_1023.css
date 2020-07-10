@@ -1629,4 +1629,61 @@
     .main_slider2 .img:after{
         display: none;
     }
+
+    .products_category .flex.mob_slider {
+        display: block;
+        overflow: auto;
+        margin-right: -30px;
+        margin-bottom: 0;
+        margin-left: -30px;
+        padding: 0 30px;
+        white-space: nowrap;
+        padding-bottom: 50px;
+    }
+
+    .products_category .flex.mob_slider > * {
+        display: inline-block;
+        width: 270px;
+        margin-bottom: 0;
+        margin-left: 0;
+        vertical-align: top;
+        white-space: normal;
+    }
+
+    .products_category .flex.mob_slider > * + * {
+        margin-left: 16px;
+    }
+
+
+    .products_category .img img{
+    }
+
+    .products_category .info .name{
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .products_category .info .counts{
+        font-size: 15px;
+        line-height: 16px;
+    }
+
+    .products_category .info .price{
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+
+    .product_info .buy .price .val, .product_info .buy .price span{
+        font-size: 26px;
+        line-height: 26px;
+    }
+     .product_info .buy .price .val.old {
+        font-size: 20px;
+        line-height: 22px;
+    }
+    .product_info .buy .price .val.old span{
+        font-size: 20px;
+        line-height: 22px;
+    }
 }

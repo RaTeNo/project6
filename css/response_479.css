@@ -310,8 +310,8 @@
 
     .product_info .image
     {
-        width: calc(100% - 140px);
-        padding-bottom: calc(100% - 140px);
+        width: calc(100%);
+        padding-bottom: calc(100%);
 
     }
 
@@ -955,5 +955,13 @@
 
     .mob_header + .main_slider, .mob_header + .first_section, .mob_header + .main_slider3 {
         margin-top:-30px;
+    }
+
+    .product_info .buy .price{
+        flex-wrap: wrap;
+    }
+    .product_info .buy .price .val + .val{
+        width: 100%;
+        text-align: right;
     }
 }
