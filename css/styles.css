@@ -8805,3 +8805,7 @@ header.fixed .info {
     line-height: 22px;
     color: #959595;
 }
+
+.poll .desc img{
+    max-width: 100%;
+}
