@@ -2334,6 +2334,7 @@ aside > *:last-child
     bottom: -25px;
     background-color: var(--main_color1);
     z-index: 100;
+    transform: none;
 }
 
 .main_slider
@@ -8473,7 +8474,6 @@ footer .links a:hover
 
     justify-content: center;
     align-items: center;
-    transform: perspective(65px) rotateY(10deg);
 }
 
 .customPreviousBtn
@@ -8490,7 +8490,6 @@ footer .links a:hover
 
     justify-content: center;
     align-items: center;
-    transform: perspective(65px) rotateY(-10deg);
 }
 
 
