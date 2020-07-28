@@ -279,7 +279,6 @@
 
         display: none;
 
-        margin-bottom: 10px;
         padding: 5px 0;
 
         border-radius: 0;
@@ -1686,5 +1685,18 @@
     .product_info .buy .price .val.old span{
         font-size: 20px;
         line-height: 22px;
+    }
+
+    header .menu .item a.touch_link + .sub_menu.show {
+        display: block;
+        
+    }
+
+    header .menu .item a.touch_link + .sub_menu.show a {
+        padding-left:40px;
+    }
+
+    header .menu .item a.touch_link + .sub_menu.show .sub_menu a{
+        padding-left:50px;
     }
 }
