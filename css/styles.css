@@ -1441,7 +1441,7 @@ header .menu .item:hover > a.touch_link + .sub_menu
 
     visibility: hidden;
 
-    min-width: 100%;
+    min-width: auto;
 
     transition: .2s linear;
 
@@ -5158,7 +5158,9 @@ position: absolute;
 
     -webkit-mask-position: center;
     -webkit-mask-size: contain;
+   
     mask: url(../images/news.svg);
+    mask-size: cover;
     -webkit-mask-box-image: url(../images/news.svg);
 }
 
@@ -5204,6 +5206,7 @@ position: absolute;
     -webkit-mask-position: center;
     -webkit-mask-size: contain;
     mask: url(../images/news.svg);
+    mask-size: cover;
     -webkit-mask-box-image: url(../images/news.svg);
 }
 .products .product .stickers
@@ -8366,6 +8369,7 @@ footer .links a:hover
     -webkit-mask-position: center;
     -webkit-mask-size: contain;
     mask: url(../images/news.svg);
+    mask-size: cover;
     -webkit-mask-box-image: url(../images/news.svg);
 }
 
@@ -8737,6 +8741,7 @@ header.fixed .info {
     -webkit-mask-position: center;
     -webkit-mask-size: contain;
     mask: url(../images/news.svg);
+    mask-size: cover;
     -webkit-mask-box-image: url(../images/news.svg);
 }
 
@@ -8846,5 +8851,5 @@ header .flexMenu-popup .item .item .sub_menu{
 }
 
 header .flexMenu-popup .item .item:hover .sub_menu{
-    left: -100%;
+    left: auto%;
 }
